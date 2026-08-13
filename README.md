@@ -1,23 +1,22 @@
 # Hi there, I'm Najimdeen Ajadi! 👋 🚀
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=700&size=24&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&height=50&lines=Frontend+Web+Developer;YouTube+Gamer+%26+Content+Creator;LAUTECH+Student+%26+Zuri+Scholar" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=700&size=24&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&height=50&lines=Frontend+Web+Developer;LAUTECH+Student+%26+Zuri+Scholar;Building+Modern+Web+Experiences" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <a href="https://youtube.com/@StarGaming0"><img src="https://img.shields.io/badge/YouTube-StarGaming-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Channel"></a>
   <a href="mailto:najimdeenajadi@gmail.com"><img src="https://img.shields.io/badge/Email-najimdeenajadi%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <img src="https://img.shields.io/badge/Focus-Frontend%20Development-00F2FE?style=for-the-badge" alt="Focus">
+  <img src="https://img.shields.io/badge/Focus-Frontend%20Engineering-00F2FE?style=for-the-badge" alt="Focus">
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a passionate **Frontend Web Developer** and **Content Creator** based in Ogbomoso, Nigeria. I love building responsive, interactive web applications and producing gaming content on YouTube.
+I am a dedicated **Frontend Web Developer** based in Ogbomoso, Nigeria. I love designing responsive, interactive web applications, crafting clean user interfaces, and solving real-world problems with modern web technologies.
 
 - 🎓 **Education & Training**: LAUTECH Student & **Zuri Training** Front-End Engineering Scholar
-- 🎮 **Content Creation**: Creator behind [**StarGaming**](https://youtube.com/@StarGaming0) (114+ Subscribers • 25,000+ Views • 100+ Videos)
+- 💻 **Specialization**: HTML5, CSS3, JavaScript (ES6+), Responsive Design & Web Performance
 - 💡 **Philosophy**: *"No dream is too big — you can achieve anything if you believe."*
 - 🎯 **Current Goals**: Master JavaScript frameworks (React / Vue) and build impactful web applications for campus & global communities.
 
@@ -50,7 +49,7 @@ I am a passionate **Frontend Web Developer** and **Content Creator** based in Og
 | :--- | :--- | :--- |
 | 🛒 [**LAUTECH Market**](./Lautech%20Market.html) | Campus e-commerce marketplace for LAUTECH students with live search, category filtering, slide-over cart, and campus pickup scheduling. | HTML5, TailwindCSS, JavaScript |
 | ⏰ [**Precision Analog & Digital Clock**](./Analog%20Clock/index.html) | 60fps continuous sweep analog clock featuring Web Audio API mechanical ticker, 4 dynamic themes, and world clock timezones. | HTML5, CSS3, JS, Web Audio API, SVG |
-| 💼 [**Personal Portfolio**](./My%20Portfolio.html) | Modern dark glassmorphic portfolio showcasing YouTube channel stats, skills progress, video highlights, and interactive contact form. | HTML5, CSS3, JavaScript |
+| 💼 [**Personal Portfolio**](./My%20Portfolio.html) | Modern dark glassmorphic developer portfolio showcasing projects, skills progress, and interactive contact form. | HTML5, CSS3, JavaScript |
 | 🔐 [**User Registration & Auth System**](./Registration.html) | Complete glassmorphic authentication suite with password strength gauge, eye toggle, and `localStorage` credential verification. | HTML5, CSS3, JavaScript, LocalStorage |
 
 ---
@@ -71,7 +70,6 @@ I am a passionate **Frontend Web Developer** and **Content Creator** based in Og
 ## 📫 Connect With Me
 
 - 📧 **Email**: [najimdeenajadi@gmail.com](mailto:najimdeenajadi@gmail.com)
-- 🔴 **YouTube**: [StarGaming Channel](https://youtube.com/@StarGaming0)
 - 🌐 **Portfolio**: [Najimdeen's Portfolio Website](./My%20Portfolio.html)
 
 <div align="center">
