@@ -1,4 +1,4 @@
-# Hi there, I'm Najimdeen Ajadi! 👋 🛡️💻
+# Hi there, Najimdeen here! 👋 🛡️💻
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=700&size=24&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=650&height=50&lines=Cyber+Security+%26+Frontend+Developer;LAUTECH+B.Tech+Cyber+Security+(400L);Technical+Support+Intern+%40+LAUTECH+ICT+Centre" alt="Typing SVG" />
