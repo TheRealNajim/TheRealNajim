@@ -18,7 +18,7 @@ I am a dedicated **B.Tech Cyber Security undergraduate (400 Level)** at **Ladoke
 
 I am passionate about **Network Security**, **Ethical Hacking**, **Threat Analysis**, and **Frontend Web Engineering**, actively building hands-on skills through real-world projects, Python development, and TryHackMe.
 
-- 🎓 **Education**: B.Tech. Cyber Security, **LAUTECH** (400 Level | CGPA: **3.50 / 5.00** | Expected Graduation: 2027)
+- 🎓 **Education**: B.Tech. Cyber Security, **LAUTECH** (400 Level | Expected Graduation: 2027)
 - 💼 **Professional Experience**: Technical Support Intern @ **LAUTECH ICT Centre** (*Mar 2026 – Aug 2026*)
   - Diagnosed hardware & software issues, installed and maintained systems, and supported ICT service delivery.
 - 🛡️ **Cyber Security Training**: TryHackMe Level 4 (17+ Security Rooms completed)
