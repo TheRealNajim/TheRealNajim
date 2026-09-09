@@ -1,11 +1,11 @@
 # Hi there, Najimdeen here! 👋 🛡️💻
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=700&size=24&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=650&height=50&lines=Cyber+Security+%26+Frontend+Developer;LAUTECH+B.Tech+Cyber+Security+(400L);Technical+Support+Intern+%40+LAUTECH+ICT+Centre" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=700&size=24&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=650&height=50&lines=Cyber+Security+%26+Frontend+Developer;LAUTECH+B.Tech+Cyber+Security+(400L)" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <a href="https://najimdeen.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-sites.google.com%2Fview%2Ftherealnajim-003366?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Portfolio Website"></a>
+  <a href="https://najimdeen.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-najimdeen.vercel.app-003366?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio Website"></a>
   <a href="mailto:najimdeenajadi@gmail.com"><img src="https://img.shields.io/badge/Email-najimdeenajadi%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
@@ -13,13 +13,11 @@
 
 ## 👨‍💻 Professional Summary
 
-I am a dedicated **B.Tech Cyber Security undergraduate (400 Level)** at **Ladoke Akintola University of Technology (LAUTECH)** with practical IT support experience through the **LAUTECH ICT Centre**. 
+I am a dedicated **B.Tech Cyber Security undergraduate (400 Level)** at **Ladoke Akintola University of Technology (LAUTECH)**. 
 
 I am passionate about **Network Security**, **Ethical Hacking**, **Threat Analysis**, and **Frontend Web Engineering**, actively building hands-on skills through real-world projects, Python development, and TryHackMe.
 
 - 🎓 **Education**: B.Tech. Cyber Security, **LAUTECH** (400 Level | Expected Graduation: 2027)
-- 💼 **Professional Experience**: Technical Support Intern @ **LAUTECH ICT Centre** (*Mar 2026 – Aug 2026*)
-  - Diagnosed hardware & software issues, installed and maintained systems, and supported ICT service delivery.
 - 🛡️ **Cyber Security Training**: TryHackMe Level 4 (17+ Security Rooms completed)
 - 🌐 **Live Portfolio Website**: [https://najimdeen.vercel.app/](https://najimdeen.vercel.app/)
 
@@ -61,7 +59,6 @@ I am passionate about **Network Security**, **Ethical Hacking**, **Threat Analys
 ## 📜 Certifications & Achievements
 
 - 🏆 **TryHackMe**: Completed 17 Security Rooms (Level 4 Security Analyst)
-- 💼 **LAUTECH ICT Centre**: Technical Support Internship Certification (System maintenance & network troubleshooting)
 - 👥 **Leadership**: Active in student associations & Team Lead for academic software projects
 
 ---
