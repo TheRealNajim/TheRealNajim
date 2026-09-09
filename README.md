@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <a href="https://sites.google.com/view/therealnajim" target="_blank"><img src="https://img.shields.io/badge/Portfolio-sites.google.com%2Fview%2Ftherealnajim-003366?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Portfolio Website"></a>
+  <a href="https://najimdeen.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-sites.google.com%2Fview%2Ftherealnajim-003366?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Portfolio Website"></a>
   <a href="mailto:najimdeenajadi@gmail.com"><img src="https://img.shields.io/badge/Email-najimdeenajadi%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
