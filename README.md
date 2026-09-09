@@ -69,7 +69,7 @@ I am passionate about **Network Security**, **Ethical Hacking**, **Threat Analys
 
 ## 📫 Connect With Me
 
-- 🌐 **Portfolio Website**: [https://sites.google.com/view/therealnajim](https://sites.google.com/view/therealnajim)
+- 🌐 **Portfolio Website**: [https://sites.google.com/view/therealnajim](https://najimdeen.vercel.app/)
 - 📧 **Email**: [najimdeenajadi@gmail.com](mailto:najimdeenajadi@gmail.com)
 - 💻 **Local Web Portfolio**: [Najimdeen's Web Portfolio](./My%20Portfolio.html)
 
