@@ -52,10 +52,9 @@ I am passionate about **Network Security**, **Ethical Hacking**, **Threat Analys
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| 🛡️ [**Network Threat Analysis Platform**](./Ransomware.html) | Collaborative web platform to analyze network threats, malicious traffic, and security vulnerabilities. | Python, SQL, Wireshark, Cybersecurity |
-| 🛒 [**LAUTECH Market**](./Lautech%20Market.html) | Campus e-commerce marketplace for LAUTECH students with live search, category filtering, slide-over cart, and campus pickup scheduling. | HTML5, TailwindCSS, JavaScript |
-| ⏰ [**Precision Analog & Digital Clock**](./Analog%20Clock/index.html) | 60fps continuous sweep analog clock featuring Web Audio API mechanical ticker, 4 dynamic themes, and world clock timezones. | HTML5, CSS3, JS, Web Audio API, SVG |
-| 🔐 [**User Registration & Auth Suite**](./Registration.html) | Complete glassmorphic authentication suite with password strength gauge, eye toggle, and `localStorage` credential verification. | HTML5, CSS3, JavaScript, LocalStorage |
+| 💳 [**CC-GEN**](https://cc-gen-seven.vercel.app/) | Dummy credit card generator & payment sandbox testing toolkit — Luhn-validated cards, test card matrix, API snippets, and bulk exports for safely testing payment gateways and checkout flows. | HTML5, CSS3, JavaScript, Luhn Algorithm |
+| 🧠 [**Idea Lab (AI Concept Mashup Generator)**](https://ai-concept-mashup-generator.vercel.app/) | Creative web tool that fuses random concepts into fresh, unexpected product ideas — sparking inspiration for projects, brainstorming, and content creation. | Vite, JavaScript, CSS3 |
+| ⏰ [**Precision Analog & Digital Clock**](https://analog-clock-eta-ashen.vercel.app/) | 60fps continuous sweep analog clock featuring Web Audio API mechanical ticker, 4 dynamic themes, and world clock timezones. | HTML5, CSS3, JS, Web Audio API, SVG |
 
 ---
 
