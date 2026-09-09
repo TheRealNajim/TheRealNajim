@@ -21,7 +21,7 @@ I am passionate about **Network Security**, **Ethical Hacking**, **Threat Analys
 - 💼 **Professional Experience**: Technical Support Intern @ **LAUTECH ICT Centre** (*Mar 2026 – Aug 2026*)
   - Diagnosed hardware & software issues, installed and maintained systems, and supported ICT service delivery.
 - 🛡️ **Cyber Security Training**: TryHackMe Level 4 (17+ Security Rooms completed)
-- 🌐 **Live Portfolio Website**: [https://sites.google.com/view/therealnajim](https://sites.google.com/view/therealnajim)
+- 🌐 **Live Portfolio Website**: [https://najimdeen.vercel.app/](https://najimdeen.vercel.app/)
 
 ---
 
@@ -69,7 +69,7 @@ I am passionate about **Network Security**, **Ethical Hacking**, **Threat Analys
 
 ## 📫 Connect With Me
 
-- 🌐 **Portfolio Website**: [https://sites.google.com/view/therealnajim](https://najimdeen.vercel.app/)
+- 🌐 **Portfolio Website**: [https://najimdeen.vercel.app/](https://najimdeen.vercel.app/)
 - 📧 **Email**: [najimdeenajadi@gmail.com](mailto:najimdeenajadi@gmail.com)
 - 💻 **Local Web Portfolio**: [Najimdeen's Web Portfolio](./My%20Portfolio.html)
 
