@@ -51,7 +51,7 @@ I am passionate about **Network Security**, **Ethical Hacking**, **Threat Analys
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | 💳 [**CC-GEN**](https://cc-gen-seven.vercel.app/) | Dummy credit card generator & payment sandbox testing toolkit — Luhn-validated cards, test card matrix, API snippets, and bulk exports for safely testing payment gateways and checkout flows. | HTML5, CSS3, JavaScript, Luhn Algorithm |
-| 🧠 [**Idea Lab (AI Concept Mashup Generator)**](https://ai-concept-mashup-generator.vercel.app/) | Creative web tool that fuses random concepts into fresh, unexpected product ideas — sparking inspiration for projects, brainstorming, and content creation. | Vite, JavaScript, CSS3 |
+| 🧠 [**Idea Lab (AI Concept Mashup Generator)**](https://makeweirduseful.vercel.app/) | Creative web tool that fuses random concepts into fresh, unexpected product ideas — sparking inspiration for projects, brainstorming, and content creation. | Vite, JavaScript, CSS3 |
 | ⏰ [**Precision Analog & Digital Clock**](https://analog-clock-eta-ashen.vercel.app/) | 60fps continuous sweep analog clock featuring Web Audio API mechanical ticker, 4 dynamic themes, and world clock timezones. | HTML5, CSS3, JS, Web Audio API, SVG |
 
 ---
