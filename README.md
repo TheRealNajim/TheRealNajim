@@ -67,7 +67,6 @@ I am passionate about **Network Security**, **Ethical Hacking**, **Threat Analys
 
 - 🌐 **Portfolio Website**: [https://najimdeen.vercel.app/](https://najimdeen.vercel.app/)
 - 📧 **Email**: [najimdeenajadi@gmail.com](mailto:najimdeenajadi@gmail.com)
-- 💻 **Local Web Portfolio**: [Najimdeen's Web Portfolio](./My%20Portfolio.html)
 
 <div align="center">
   <sub>Built with ❤️ by Najimdeen Ajadi</sub>
