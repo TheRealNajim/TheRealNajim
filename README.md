@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <a href="https://najimdeen.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-najimdeen.vercel.app-003366?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio Website"></a>
+  <a href="https://www.najimdeenajadi.xyz/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-www.najimdeenajadi.xyz-003366?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio Website"></a>
   <a href="mailto:najimdeenajadi@gmail.com"><img src="https://img.shields.io/badge/Email-najimdeenajadi%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
@@ -19,7 +19,7 @@ I am passionate about **Network Security**, **Ethical Hacking**, **Threat Analys
 
 - 🎓 **Education**: B.Tech. Cyber Security, **LAUTECH** (400 Level | Expected Graduation: 2027)
 - 🛡️ **Cyber Security Training**: TryHackMe Level 4 (17+ Security Rooms completed)
-- 🌐 **Live Portfolio Website**: [https://najimdeen.vercel.app/](https://najimdeen.vercel.app/)
+- 🌐 **Live Portfolio Website**: [https://www.najimdeenajadi.xyz/](https://www.najimdeenajadi.xyz/)
 
 ---
 
@@ -65,7 +65,7 @@ I am passionate about **Network Security**, **Ethical Hacking**, **Threat Analys
 
 ## 📫 Connect With Me
 
-- 🌐 **Portfolio Website**: [https://najimdeen.vercel.app/](https://najimdeen.vercel.app/)
+- 🌐 **Portfolio Website**: [https://www.najimdeenajadi.xyz/](https://www.najimdeenajadi.xyz/)
 - 📧 **Email**: [najimdeenajadi@gmail.com](mailto:najimdeenajadi@gmail.com)
 
 <div align="center">
